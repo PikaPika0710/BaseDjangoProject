@@ -1,0 +1,42 @@
+✔️ User model + mock data user
+✔️ sign up: create user + account
+✔️ sign in: username + password => access token + refresh token (JWT)
+https://viblo.asia/p/jwt-trong-django-rest-framework-yMnKMwygl7P
+✔️ LIST: [GET] /api/v1/user/
+[
+	{
+		"name": "Xxx",
+		"phone": "0234903248",
+		"account": {
+			"username": "hehe",
+			"password": "abcd",
+			"email": "huy@gmail.com"
+		}
+	},
+	{
+		"name": "Xxx",
+		"phone": "0234903248",
+		"account": {
+			"username": "hehe",
+			"password": "abcd",
+			"email": "huy@gmail.com"
+		}
+	}
+]
+
+✔️ CRUD user model
+
+
+
+*** return [permission() for permission in self.permission_map.get(self.action, self.permission_classes)]
+
+
+DELETE BASED ON ID :: <useful?>
+
+
+
+new_user = UpdateUserInfoSerializer(user, data=new_user_data, partial=True)
+
+
+Update tùy ý? Mỗi lần mỗi thuộc tính?
+

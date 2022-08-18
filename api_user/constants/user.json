@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Nguyễn Mạnh Ðình",
+    "phone": "059684749",
+    "birthday": "2000-09-01",
+    "gender": "Nam",
+    "career": "Kỹ sư Công nghệ thông tin",
+    "account": {
+      "username": "user10",
+      "email": "manhdinh@gmail.com"
+    }
+  },
+  {
+    "name": "Đỗ Gia Phúc",
+    "phone": "097856989",
+    "birthday": "2001-09-01",
+    "gender": "Nam",
+    "career": "Chuyên gia bất động sản",
+    "account": {
+      "username": "user11",
+      "email": "giaphuc@gmail.com"
+    }
+  },
+  {
+    "name": "Lý Long Quân",
+    "phone": "078745778",
+    "birthday": "2003-11-01",
+    "gender": "Nam",
+    "career": "Giảng viên trường đại học Bách khoa Đà Nẵng",
+    "account": {
+      "username": "user12",
+      "email": "quanlong@gmai.com"
+    }
+  },
+  {
+    "name": "Ân Việt Dũng",
+    "phone": "099674567",
+    "birthday": "2000-06-12",
+    "gender": "Nam",
+    "career": "Nhân viên bán hàng tại cửa hàng giày ShoesShop",
+    "account": {
+      "username": "user13",
+      "email": "vietdung@gmail.com"
+    }
+  },
+  {
+    "name": "Hàn Việt Phương",
+    "phone": "027856889",
+    "birthday": "2006-09-19",
+    "gender": "Nữ",
+    "career": "Công nhân may mặc",
+    "account": {
+      "username": "user14",
+      "email": "vietphuong@gmail.com"
+    }
+  },
+  {
+    "name": "Nguyễn Hùng Dũng",
+    "phone": "077848358",
+    "birthday": "1998-09-01",
+    "gender": "Nam",
+    "career": "Batender",
+    "account": {
+      "username": "user15",
+      "email": "hungdung@gmail.com"
+    }
+  },
+  {
+    "name": "Đặng Bảo Huỳnh",
+    "phone": "098832745",
+    "birthday": "2000-09-13",
+    "gender": "Nữ",
+    "career": "Người vận chuyển hàng container",
+    "account": {
+      "username": "user16",
+      "email": "baohuynh@gmail.com"
+    }
+  },
+  {
+    "name": "Nguyễn Phương Triều",
+    "phone": "069834784",
+    "birthday": "2000-10-21",
+    "gender": "Nữ",
+    "career": "Kỹ sư cầu nối Việt-Nhật",
+    "account": {
+      "username": "user17",
+      "email": "phuongtrieu@gmail.com"
+    }
+  },
+  {
+    "name": "Chung Quốc Hưng",
+    "phone": "090774577",
+    "birthday": "2004-09-18",
+    "gender": "Nam",
+    "career": "Đầu bếp tại khách sạn NovaTel",
+    "account": {
+      "username": "user18",
+      "email": "quochung@gmail.com"
+    }
+  }
+]
